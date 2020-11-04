@@ -3,42 +3,36 @@
     "name": "Breakpoint",
     "path": "/Breakpoint",
     "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Breakpoint.vue",
-    "chunkName": "pages/Breakpoint",
-    "_name": "_45516fb0"
+    "chunkName": "pages/Breakpoint"
   },
   {
     "name": "Button",
     "path": "/Button",
     "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Button.vue",
-    "chunkName": "pages/Button",
-    "_name": "_5e4435f1"
+    "chunkName": "pages/Button"
   },
   {
     "name": "Floating",
     "path": "/Floating",
     "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Floating.vue",
-    "chunkName": "pages/Floating",
-    "_name": "_6570df05"
+    "chunkName": "pages/Floating"
   },
   {
     "name": "inspire",
     "path": "/inspire",
     "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/inspire.vue",
-    "chunkName": "pages/inspire",
-    "_name": "_03a2e04b"
+    "chunkName": "pages/inspire"
   },
   {
     "name": "Stepper",
     "path": "/Stepper",
     "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Stepper.vue",
-    "chunkName": "pages/Stepper",
-    "_name": "_32c9e8a2"
+    "chunkName": "pages/Stepper"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_d6f806fa"
+    "chunkName": "pages/index"
   }
 ]
