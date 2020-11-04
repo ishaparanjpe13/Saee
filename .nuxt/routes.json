@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Breakpoint",
+    "path": "/Breakpoint",
+    "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Breakpoint.vue",
+    "chunkName": "pages/Breakpoint"
+  },
+  {
+    "name": "Button",
+    "path": "/Button",
+    "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Button.vue",
+    "chunkName": "pages/Button"
+  },
+  {
+    "name": "Floating",
+    "path": "/Floating",
+    "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Floating.vue",
+    "chunkName": "pages/Floating"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "Stepper",
+    "path": "/Stepper",
+    "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/Stepper.vue",
+    "chunkName": "pages/Stepper"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/saeeparanjpe/Documents/GitHub/Saee/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

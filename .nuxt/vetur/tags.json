@@ -1,0 +1,56 @@
+{
+  "Breadcrumb": {
+    "description": "Auto imported from components/Breadcrumb.vue"
+  },
+  "LazyBreadcrumb": {
+    "description": "Auto imported from components/Breadcrumb.vue"
+  },
+  "Breakpoint": {
+    "description": "Auto imported from components/Breakpoint.vue"
+  },
+  "LazyBreakpoint": {
+    "description": "Auto imported from components/Breakpoint.vue"
+  },
+  "Breakpoint2": {
+    "description": "Auto imported from components/Breakpoint2.vue"
+  },
+  "LazyBreakpoint2": {
+    "description": "Auto imported from components/Breakpoint2.vue"
+  },
+  "Button": {
+    "description": "Auto imported from components/Button.vue"
+  },
+  "LazyButton": {
+    "description": "Auto imported from components/Button.vue"
+  },
+  "Button2": {
+    "description": "Auto imported from components/Button2.vue"
+  },
+  "LazyButton2": {
+    "description": "Auto imported from components/Button2.vue"
+  },
+  "Floating": {
+    "description": "Auto imported from components/Floating.vue"
+  },
+  "LazyFloating": {
+    "description": "Auto imported from components/Floating.vue"
+  },
+  "RoyalSundaramLogo": {
+    "description": "Auto imported from components/RoyalSundaramLogo.vue"
+  },
+  "LazyRoyalSundaramLogo": {
+    "description": "Auto imported from components/RoyalSundaramLogo.vue"
+  },
+  "Stepper": {
+    "description": "Auto imported from components/Stepper.vue"
+  },
+  "LazyStepper": {
+    "description": "Auto imported from components/Stepper.vue"
+  },
+  "Ticks": {
+    "description": "Auto imported from components/Ticks.vue"
+  },
+  "LazyTicks": {
+    "description": "Auto imported from components/Ticks.vue"
+  }
+}
